@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Android LOT-1 Training Group</string>
+    <string name="Teacher_details">
+        \n Name: Mamonur Rashid
+         \n Software Engineer-Android developer
+         \n at Aamra Companies.
+          \nLives in Dhaka, Bangladesh
+           \n From Bogra</string>
+
+    <string name="Rony">
+        \n Name:Mohosin Rony
+        \n Project Coordination Specialist
+        \n Learning And Development
+        \n at Digicon Technologies Limited
+        \n Mobile: +8801758738744 </string>
+
+    <string name="muhtamim">
+        \n Name: Muhtamim Fuwad Nahid
+        \n Studied Bsc in Computer Science and Engineering
+        \n at Leading University, Sylhet.
+        \n Mobile: +8801717-605705
+
+    </string>
+
+    <string name="Mujaffar">
+        \n Name: Mujaffar Talha
+        \n Studied Bsc in Computer Science and Engineering
+        \n at Leading University, Sylhet.
+        \n Mobile: +8801761-345942
+
+    </string>
+
+    <string name="iffti">
+        Name:Chowdhury Iftekhar
+        \n Studied Bsc in Computer Science and Engineering
+        \n at Leading University, Sylhet.
+        \n Mobile: +8801786-931458.
+
+    </string>
+    
+    <string name= "Md_Kamran_Ahmed">
+        \n Name:Md Kamran Ahmed
+        \n Studied
+        \n at North East University Bangladesh-NEUB
+    </string>
+
+    <string name="Monjur">
+        \n Name: Manjur Ahmed
+        \n Studied Bsc in Computer Science and Engineering
+        \n at Leading University, Sylhet.
+
+
+    </string>
+    <string name="suhaz_chy">
+        \n Name: Suhaz Chowdhury
+        \n Studied at M.M.C UNIVERSITY SYLHET
+        \n Past: Shahjalal Jamia Islamia School and College
+
+    </string>
+
+    <string name="Ariyan_Khan">
+        \n Name:Ariyan Khan
+        \n Studying in Computer Science and Engeneering Department
+        \n at North East University Bangladesh
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

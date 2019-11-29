@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\ee9082980e2edb2aad2868b2009ae05d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0401265ea8d9eb3d80dcc69ee094bad\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\37376ff86c6c0dbf5c60570655bf9b9c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\8f3538a3d883bacdfc1ead75738163b3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\604c905a5c9d031d4eec1fb52b8c8adf\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e63d9da4c91b4c0b344aeff154fdf19e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ce5d393415e895049fd64aee2fc15e07\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\63842e71a0b184ac531a31c9333625b9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f435d7617a1bc3f8430e050a81379099\AndroidManifest.xml:17:1-27:12
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\ee9082980e2edb2aad2868b2009ae05d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\ee9082980e2edb2aad2868b2009ae05d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0401265ea8d9eb3d80dcc69ee094bad\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0401265ea8d9eb3d80dcc69ee094bad\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\37376ff86c6c0dbf5c60570655bf9b9c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\37376ff86c6c0dbf5c60570655bf9b9c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\8f3538a3d883bacdfc1ead75738163b3\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\8f3538a3d883bacdfc1ead75738163b3\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\604c905a5c9d031d4eec1fb52b8c8adf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\604c905a5c9d031d4eec1fb52b8c8adf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e63d9da4c91b4c0b344aeff154fdf19e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e63d9da4c91b4c0b344aeff154fdf19e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ce5d393415e895049fd64aee2fc15e07\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ce5d393415e895049fd64aee2fc15e07\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\63842e71a0b184ac531a31c9333625b9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\63842e71a0b184ac531a31c9333625b9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f435d7617a1bc3f8430e050a81379099\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f435d7617a1bc3f8430e050a81379099\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:10:9-40
+activity#iubat.fragmentexample.MainActivity
+ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\ee9082980e2edb2aad2868b2009ae05d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\ee9082980e2edb2aad2868b2009ae05d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0401265ea8d9eb3d80dcc69ee094bad\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0401265ea8d9eb3d80dcc69ee094bad\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\37376ff86c6c0dbf5c60570655bf9b9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\37376ff86c6c0dbf5c60570655bf9b9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\8f3538a3d883bacdfc1ead75738163b3\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\8f3538a3d883bacdfc1ead75738163b3\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\604c905a5c9d031d4eec1fb52b8c8adf\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\604c905a5c9d031d4eec1fb52b8c8adf\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e63d9da4c91b4c0b344aeff154fdf19e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e63d9da4c91b4c0b344aeff154fdf19e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ce5d393415e895049fd64aee2fc15e07\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ce5d393415e895049fd64aee2fc15e07\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\63842e71a0b184ac531a31c9333625b9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\63842e71a0b184ac531a31c9333625b9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f435d7617a1bc3f8430e050a81379099\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f435d7617a1bc3f8430e050a81379099\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Shohel_Mamon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\ee9082980e2edb2aad2868b2009ae05d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+		ADDED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LICT Moble Apps\FragmentExample\app\src\main\AndroidManifest.xml
